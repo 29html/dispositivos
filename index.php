@@ -1,1 +1,1 @@
-<?php required_once("index.html") ?>
+<?php required_once("dispositivos.html") ?>
